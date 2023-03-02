@@ -17,12 +17,12 @@ export const Tasks = () => {
             setRows(data)
         }
     }
+
     React.useEffect(()=>{
         getTasks();
     },[])
 
     return (
-
     <div style={{ maxWidth: 500,   width: "100%"}}>
 
     <TableContainer component={Paper}>

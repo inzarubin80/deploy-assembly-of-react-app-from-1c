@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.14">
+	<ConfigVersions>
+		<Metadata name="Catalog.Задачи" id="a71b684e-58b9-4e5a-bbb1-a05d5c82e36a" configVersion="e8b73ff3449dac4ca57d3f6c2b7010cd00000000"/>
+		<Metadata name="Configuration.Курс1сForWEB" id="e6781bba-8b36-472d-a344-9aaf184f6f67" configVersion="2cd17f47daad6c4da5bac779181d9ae700000000"/>
+		<Metadata name="Constant.ПутьКСборке" id="34712750-c854-4155-ad1c-8f97516fdf6a" configVersion="334bbf4fff44964fa09e56c1c9b4b01f00000000"/>
+		<Metadata name="HTTPService.content" id="1617b880-9785-4f17-9dd9-31daa6e68b49" configVersion="13f7dbcaf1aaa445a49ad90905bee99600000000">
+			<Metadata name="HTTPService.content.URLTemplate.Index.Method.GET" id="42038b5f-9000-47b2-8420-ddbc8d0ed8e8"/>
+			<Metadata name="HTTPService.content.URLTemplate.tasks" id="68bb62ce-c19e-4fea-8753-533316da3a16"/>
+			<Metadata name="HTTPService.content.URLTemplate.Index" id="92295e86-cf5c-4768-806e-603607c76883"/>
+			<Metadata name="HTTPService.content.URLTemplate.tasks.Method.GET" id="ed5b7e36-cfbc-4c1c-aa3a-d8fd102ce4dd"/>
+		</Metadata>
+		<Metadata name="HTTPService.content.Module" id="1617b880-9785-4f17-9dd9-31daa6e68b49.0" configVersion="f44fac6a3c3b804fa91e97e40737c90700000000"/>
+		<Metadata name="InformationRegister.ДанныеЗапросов" id="e79874dd-d2e2-4844-b095-e01069c2344c" configVersion="0d0f6bd59ef51f41b4c8d2a38a9cb0b900000000">
+			<Metadata name="InformationRegister.ДанныеЗапросов.Resource.ЗаголовокСтр" id="9d1611fd-8eca-469b-8d09-ca4b43d79ba3"/>
+			<Metadata name="InformationRegister.ДанныеЗапросов.Resource.Тело" id="a977bf27-b913-48ac-b88b-ee694ef8e77a"/>
+			<Metadata name="InformationRegister.ДанныеЗапросов.Resource.ВсеПараметры" id="ea5caac5-5e28-40f8-8108-25c1e19442db"/>
+			<Metadata name="InformationRegister.ДанныеЗапросов.Resource.Cookie" id="ee4b8064-8ebf-46e3-82a2-6106a4a934a8"/>
+			<Metadata name="InformationRegister.ДанныеЗапросов.Resource.ТипЗапроса" id="fcc44962-76f9-4fb0-ac7f-9ad3e07435c2"/>
+		</Metadata>
+		<Metadata name="InformationRegister.ДанныеЗапросов.Form.ФормаЗаписи" id="b6890f1b-e74d-4286-ac9e-f0297715ee9c" configVersion="01383579a5d95f4690b28c2561be38a300000000"/>
+		<Metadata name="InformationRegister.ДанныеЗапросов.Form.ФормаЗаписи.Form" id="b6890f1b-e74d-4286-ac9e-f0297715ee9c.0" configVersion="d9d3d29151f9f14f9861d3d89a16c4d700000000"/>
+		<Metadata name="Language.Русский" id="ff6a9a42-1192-4d05-ad20-550b4c59aa5c" configVersion="1b83a4c5a632434c8965c9941232b6bc00000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
