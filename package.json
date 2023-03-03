@@ -21,6 +21,7 @@
     "eject": "react-scripts eject"
   },
   "homepage": "http://localhost:9000/Portal/hs/content",
+ 
   "eslintConfig": {
     "extends": [
       "react-app",
